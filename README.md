@@ -5,7 +5,7 @@ Let's save your precious time! I (am / have):
 * 💼 Ex-Samsung Engineer.
 * 📚 Published Android library (via JitPack).
 * 🌐 Contributed to Open Source projects.
-* 🌍 Collaborated with clients from various nationalities, including Singapore (7+ years), Korea (2 years), Sweden (1.5 years), and others. 
+* 🌍 Collaborated with clients from various nationalities, including Singapore (7+ years), Korea (3 years), Denmark(3 years), Sweden (1.5 years) and others. 
 * 🚀 Successfully launched several Android applications on the Google Play Store.
 * 🎓 Finished my bachelor's degree, and during that time, I was an assistant with subjects: Automation and Introduction to Compilation + Data Structure assistant at my university.
 *  💻 Done some backend work (adding features, bug fixing, writing Unit Tests and Integration Tests) using NodeJS, with a TDD (Test Driven Development) approach. I have written approximately 400 test cases (and growing!). Having experience in both client and server development allows me to understand and spot bugs faster, either from the client's or the server's side.
