@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hi there,thank you for visiting my profile. 👋
 
-<!--
-**adityawibisana/adityawibisana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's save your precious time! I (am / have):
 
-Here are some ideas to get you started:
+* 💼 Ex-Samsung Engineer.
+* 📚 Published Android library (via JitPack).
+* 🌐 Contributed to Open Source projects.
+* 🌍 Collaborated with clients from various nationalities, including Singapore (7+ years), Korea (2 years), Sweden (1.5 years), and others. 
+* 🚀 Successfully launched several Android applications on the Google Play Store.
+* 🎓 Finished my bachelor's degree, and during that time, I was an assistant with subjects: Automation and Introduction to Compilation + Data Structure assistant at my university.
+*  💻 Done some backend work (adding features, bug fixing, writing Unit Tests and Integration Tests) using NodeJS, with a TDD (Test Driven Development) approach. I have written approximately 400 test cases (and growing!). Having experience in both client and server development allows me to understand and spot bugs faster, either from the client's or the server's side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a developer, I love competition. I was:
+* 🥉 3rd Winner Lumia Apps Olympiad (Lintas.ME category)
+* 🏆 Chosen as one of the 12 best Hackonten Applications.
+* 🏅 Lumia Apps Challenge Champion at the University of Indonesia.
+* 🥉 3rd Computer Olympiad Champion (Tulungagung, Indonesia).
+
+Languages are just tools, and here are my favorites:
+* Kotlin
+* Java
+* C#
+* Dart
+* Javascript
+* ActionScript
+
+And here are the key technologies that I have worked with (including but not limited to):
+* Android Framework (ViewModel, LiveData, Room, Threads, GPS, Bluetooth, Codec, Location, AudioTrack)
+* Firebase
+* Websocket
+* MVVM
+* Jetpack Compose
+* Dependency Injection (Hilt)
+* Flutter, with Bloc as state management
+* Xamarin
+* NodeJS (with Sails framework)
+* Redis
+* AWS (EC2, RDS, S3, Route53)
+* Minio
+* Unit Testing (Android Unit Test)
+* Integration Testing (Mocha)
+* Katalon
+* WPF (Windows Presentation Foundation) 
+* Windows Phone
+* Azure Pipelines
+* Github Actions
+
+I always strive to provide the highest quality of work and will NEVER complete a project until the you are 100% satisfied. Thank you, and have a great day! 🌟
