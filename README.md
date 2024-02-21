@@ -1,4 +1,4 @@
-### Hi there,thank you for visiting my profile. 👋
+### 👋 Hi there, thank you for visiting my profile. 
 
 Let's save your precious time! I (am / have):
 
