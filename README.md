@@ -45,4 +45,8 @@ And here are the key technologies that I have worked with (including but not lim
 * Azure Pipelines
 * Github Actions
 
+To find more about me, please visit more on:
+- [Linkedin](https://www.linkedin.com/in/aditya-wibisana)
+- [Medium](https://medium.com/@aditya.wibisana)
+
 I always strive to provide the highest quality of work and will NEVER complete a project until the you are 100% satisfied. Thank you, and have a great day! 🌟
